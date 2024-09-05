@@ -1,2 +1,2 @@
 # Binary_Classification
-Binary classification of pizza and steak 
+Binary classification of pizza and steak using cnn
